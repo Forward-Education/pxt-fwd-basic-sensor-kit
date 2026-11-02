@@ -1,5 +1,5 @@
 {
-    "name": "fwd-basic-sensor-kit",
+    "name": "pxt-fwd-basic-sensor-kit",
     "version": "0.1.0",
     "description": "Forward Education micro:bit Sensor Starter Kit (FE-01-1202): light, soil moisture, touch, sonar and RGB LED blocks",
     "license": "MIT",
