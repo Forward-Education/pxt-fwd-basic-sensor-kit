@@ -92,7 +92,3 @@ Make it your own:
 * Show the sleepy face when it is dark and the happy face when it is bright.
 * Press **A** to see the exact light level as a number.
 * Test different spots in your classroom. Which is the brightest?
-
-```package
-fwd-basic-sensor-kit=github:Forward-Education/pxt-fwd-basic-sensor-kit
-```

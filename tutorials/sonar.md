@@ -82,7 +82,3 @@ Make it your own:
   It runs once each time something comes closer than the distance you choose,
   so it can add one each time someone walks past.
 * Measure things around the room in centimetres and check them with a ruler.
-
-```package
-fwd-basic-sensor-kit=github:Forward-Education/pxt-fwd-basic-sensor-kit
-```

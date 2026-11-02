@@ -91,7 +91,3 @@ Make it your own:
 * Use ``||sensorKit:touch sensor at P0 is touched||`` with an
   ``||logic:if||`` block to show a different picture only while a finger is on
   the pad.
-
-```package
-fwd-basic-sensor-kit=github:Forward-Education/pxt-fwd-basic-sensor-kit
-```

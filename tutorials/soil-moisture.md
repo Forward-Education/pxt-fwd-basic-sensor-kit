@@ -93,7 +93,3 @@ Make it your own:
 * Add a third face for soil that is too wet.
 * Make the sad face flash so it is easier to notice.
 * Test plants around your school. Which one is the thirstiest?
-
-```package
-fwd-basic-sensor-kit=github:Forward-Education/pxt-fwd-basic-sensor-kit
-```

@@ -93,7 +93,3 @@ Make it your own:
   and orange.
 * Build a traffic light that goes green, yellow, then red.
 * Press **B** to ``||sensorKit:turn RGB LED off||``.
-
-```package
-fwd-basic-sensor-kit=github:Forward-Education/pxt-fwd-basic-sensor-kit
-```
