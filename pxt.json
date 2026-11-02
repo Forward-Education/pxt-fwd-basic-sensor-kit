@@ -8,7 +8,12 @@
     },
     "files": [
         "README.md",
-        "main.ts"
+        "main.ts",
+        "tutorials/light-sensor.md",
+        "tutorials/soil-moisture.md",
+        "tutorials/touch-sensor.md",
+        "tutorials/sonar.md",
+        "tutorials/rgb-led.md"
     ],
     "testFiles": [
         "test.ts"

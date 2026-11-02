@@ -16,6 +16,17 @@ This repository can be added as an **extension** in MakeCode.
 - click on **Extensions** under the gearwheel menu
 - search for **https://github.com/Forward-Education/pxt-fwd-basic-sensor-kit** and import
 
+## Tutorials
+
+Each link opens a step-by-step tutorial in MakeCode with this extension
+already loaded.
+
+- [Night Light](https://makecode.microbit.org/#tutorial:github:Forward-Education/pxt-fwd-basic-sensor-kit/tutorials/light-sensor) (light sensor)
+- [Thirsty Plant Alarm](https://makecode.microbit.org/#tutorial:github:Forward-Education/pxt-fwd-basic-sensor-kit/tutorials/soil-moisture) (soil moisture sensor)
+- [Touch Counter](https://makecode.microbit.org/#tutorial:github:Forward-Education/pxt-fwd-basic-sensor-kit/tutorials/touch-sensor) (touch sensor)
+- [Parking Sensor](https://makecode.microbit.org/#tutorial:github:Forward-Education/pxt-fwd-basic-sensor-kit/tutorials/sonar) (sonar)
+- [Mood Light](https://makecode.microbit.org/#tutorial:github:Forward-Education/pxt-fwd-basic-sensor-kit/tutorials/rgb-led) (RGB LED)
+
 ## How to connect the modules
 
 There is no breakout board. Each module clips straight onto the micro:bit's
@@ -153,10 +164,6 @@ the colours will come out backwards.
 ## Supported targets
 
 - for PXT/microbit
-
-## License
-
-MIT
 
 #### Metadata (used for search, rendering)
 
