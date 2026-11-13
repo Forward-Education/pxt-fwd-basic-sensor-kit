@@ -35,8 +35,9 @@ sensorKit.setRgbColor(0xff0000)
 Click **Download** and copy the program to your micro:bit. The LED should
 glow red.
 
-If it glows light blue instead of red, your LED is the other type and its
-common pin goes to **3V**. Move that clip from **GND** to **3V**. Put
+If the LED stays dark, check that the common pin is clipped to **GND**. If it
+still stays dark, your LED may be the other type, whose common pin goes to
+**3V**. Move that clip from **GND** to **3V** and put
 ``||sensorKit:set RGB LED common pin to 3V||`` at the start of
 ``||basic:on start||``.
 
